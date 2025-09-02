@@ -3,7 +3,7 @@ Wireless Communication Signal Processing - Assignments in MATLAB
 
 ## Contents
 
-HW1: Doppler effect \n
+HW1: Doppler effect 
 HW2:
 Single-user RAKE, ZF, and MMSE detectors in CDMA systems
 SIC and PIC detectors with the RAKE receiver in CDMA systems
